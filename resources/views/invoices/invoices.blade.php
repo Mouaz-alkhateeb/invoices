@@ -143,7 +143,6 @@
                                             @else
                                                 <span class="text-warning">{{ $invoice->Status }}</span>
                                             @endif
-
                                         </td>
 
                                         <td>{{ $invoice->note }}</td>
