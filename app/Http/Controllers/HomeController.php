@@ -82,9 +82,6 @@ class HomeController extends Controller
         ->options([]);
 
 
-       
-
-
         return view('home', compact('chartjs','chartjs2','nspainvoices1','nspainvoices2','nspainvoices3','SumTotal','SumTotal1','SumTotal2','SumTotal3','count_all','count_invoices1','count_invoices2','count_invoices3'));
     }
 }
