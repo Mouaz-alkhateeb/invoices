@@ -161,6 +161,7 @@
     </div>
     <!-- main-content closed -->
 @endsection
+
 @section('js')
     <!-- Internal Data tables -->
     <script src="{{ URL::asset('assets/plugins/datatable/js/jquery.dataTables.min.js') }}"></script>
