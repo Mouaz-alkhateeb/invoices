@@ -54,7 +54,7 @@
 										<a href="#" class="dropdown-item d-flex">
 											<span class="avatar  ml-3 align-self-center bg-transparent"><img src="{{URL::asset('assets/img/flags/spain_flag.jpg')}}" alt="img"></span>
 											<div class="d-flex">
-												<span class="mt-2">spain</span>
+												<span class="mt-2">Spain</span>
 											</div>
 										</a>
 									</div>
